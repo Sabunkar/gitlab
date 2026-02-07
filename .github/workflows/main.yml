@@ -20,4 +20,4 @@ jobs:
           python-version: '3.12'
 
       - name: Run hello.py
-        run: python main.py
+        run: python hello.py
